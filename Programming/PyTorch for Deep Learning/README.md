@@ -1,5 +1,5 @@
 # PyTorch  - A deeplearning framework
-![](zmg/pytorch.jpeg)
+![](img/pytorch.jpeg)
 
 Introduction to PyTorch repository
 Part1: PyTorch Framework
