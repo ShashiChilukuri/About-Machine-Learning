@@ -4,6 +4,7 @@
 
 Repository for Machine Learning 
 - Cloud Infrastructure
+- Computer vision concepts
 - Programming
 - Statistics 
 - Tools 
